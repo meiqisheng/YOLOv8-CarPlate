@@ -5,12 +5,12 @@
 !*/
 # 忽略一些指定的目录名
 ut/
-runs/
+# runs/
 .vscode/
 build/
-result/
+# result/
 *.pyc
-pretrained_model/
+# pretrained_model/
 # 不忽略下面指定的文件类型
 !*.cpp
 !*.h
